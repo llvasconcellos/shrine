@@ -1,4 +1,4 @@
-# MDC-100 Series of Codelabs
+# "SHRINE" A MDC-100 Series of Codelabs
 SHRINE - Flutter Ecommerce UI
 
 [Flutter Material Design Codelabs]https://codelabs.developers.google.com/codelabs/mdc-101-flutter?hl=en#0
